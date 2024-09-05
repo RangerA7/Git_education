@@ -365,7 +365,7 @@ A&macr;
 ```
 ***Пример:***
 
-:smile:
+:smile:)
 :laughing:
-:blush3:
+:blush14:
 
