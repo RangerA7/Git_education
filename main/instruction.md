@@ -365,7 +365,11 @@ A&macr;
 ```
 ***Пример:***
 
+<<<<<<< HEAD
 :smile:)
+=======
+:smile:))
+>>>>>>> new4
 :laughing:
 :blush14:
 
